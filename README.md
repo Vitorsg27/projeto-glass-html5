@@ -1,2 +1,2 @@
 # projeto-glass-html5
-HTML study
+HTML study following the instructions from http://www.cursoemvideo.com by Gustavo Guanabara
